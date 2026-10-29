@@ -3,7 +3,7 @@ const SITE = {
   github: "https://github.com/tousibhasnat",
   linkedin: "https://www.linkedin.com/in/tousibhasnat/",
   email: "tousibhasnat@gmail.com",
-  resumeUrl: "https://drive.google.com/file/d/1fgaR2INBaN4UtemCXOIFGe3j1GwQXEdL/view?usp=drive_link",
+  resumeUrl: "https://drive.google.com/drive/folders/1DINwCZaAcMapMGtsNA8njhnc1MBDsOr7?usp=sharing",
   openToInternships: true,
   profileImage: "assets/profile.jpg",
   skills: [
